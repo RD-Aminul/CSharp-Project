@@ -1,0 +1,1 @@
+D:\C# R-46\Project\Visual\Courses\Course Management\Course Management.csproj;x86
